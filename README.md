@@ -5,7 +5,7 @@ I'm a self-taught passionate Backend Engineer from India 🇮🇳
 
 - 💼 Backend Engineer at [Agora](https://www.agora.io/en/)
 
-- ❤️ I love designing, building, and talking BACKEND SYSTEM.
+- ❤️ I love designing and building BACKEND SYSTEM.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=singh-harveer&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00bfbf&text_color=FFFFFF&bg_color=0d1117" alt="Harveer's GitHub Stats" />
