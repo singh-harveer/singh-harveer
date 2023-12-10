@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05F2F2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6666FF&height=120&section=header"/>
 I'm a self-taught passionate Backend Engineer from India 🇮🇳
 
 **About me**
