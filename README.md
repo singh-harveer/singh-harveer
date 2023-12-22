@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF80&height=120&section=header"/>
-I am a self-taught passionate Backend Engineer from India 🇮🇳
+I am a self-taught passionate Backend Engineer from India. 🇮🇳
 
 **About me**
 
