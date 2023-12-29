@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF80&height=120&section=header"/>
-Namaste World!! Harveer Singh from India 🇮🇳
+Namaste World! I am Harveer Singh from India 🇮🇳
 
 **About me**
 
