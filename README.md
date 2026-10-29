@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:22C55E&height=140&section=header&text=Harveer%20Singh&fontSize=38&fontColor=ffffff&fontAlignY=35" alt="Harveer Singh" />
+<img width="100%" src="./assets/header.svg" alt="Harveer Singh — Backend Engineer" />
 
 ### Backend Engineer at [Agora](https://www.agora.io/en/)
 
@@ -61,12 +61,6 @@ I build scalable backend services, cloud infrastructure, and automated delivery 
 - Building voice-agent platforms and real-time communication infrastructure
 - Improving cloud-native backend delivery and operational reliability
 - Applying AI-assisted development workflows to engineering problems
-
-## GitHub activity
-
-<div align="center">
-  <img width="58%" src="https://github-readme-stats-singh-harveers-projects.vercel.app/api?username=singh-harveer&show_icons=true&count_private=true&hide_border=true&title_color=2DD4BF&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="Harveer Singh's GitHub statistics" />
-</div>
 
 ---
 
